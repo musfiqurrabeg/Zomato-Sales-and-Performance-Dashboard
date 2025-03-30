@@ -44,4 +44,6 @@ This Power BI dashboard provides an analytical view of Zomato's sales performanc
 3. Connect to your data source if needed.
 4. Interact with the visuals and explore insights.
 
-
+**Author:** [Musfiqur Rahman Abeg](https://github.com/musfiqurrabeg)
+📧 **Contact:** musfiqurabeg01@gmail.com
+🔗 **LinkedIn:** [Musfiqur Rahman Abeg](https://www.linkedin.com/in/musfiqurrabeg)  
